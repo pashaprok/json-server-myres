@@ -1,5 +1,9 @@
 # json-server-myres
 
+json-server for 
+https://github.com/pashaprok/myres-react
+
+
 launch instruction:
 
 download and open the folder

@@ -1,7 +1,7 @@
 # json-server-myres
 
 json-server for 
-https://github.com/pashaprok/myres-react
+https://github.com/pashaprok/react-proj
 
 
 launch instruction:
